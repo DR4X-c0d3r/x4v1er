@@ -23,10 +23,10 @@
 
 ## 🏁 Getting Started
 
-  ```Download The Repo
+```Download The Repo
   git clone https://github.com/DR4X-c0d3r/x4v1er.git \
   cd x4v1er/ 
-  ```
+```
 
 ### Requirements
 
@@ -34,22 +34,22 @@
 - Root/admin privileges
 - Linux or Windows
 - Required libraries:
-  ```bash
+```bash
   pip install scapy colorama tkinter # If you get any error, check if you already installed pip then create virtual env with python
   # create python env
   python3 -m env firewall-env
   # reinstall libraries
   pip install -r requirements; sudo apt install python3-tk #for tkinter
   sudo apt install scapy
-  ```
+```
 
 ### Run It From Cmd
 
-  ```bash
+```bash
   sudo cp firewall.py /usr/bin/x4v1er \
   chmod +x /usr/bin/x4v1er \
   x4v1er -v #version of x4v1er
-  ```
+```
 
 ### Email Configuration
 
